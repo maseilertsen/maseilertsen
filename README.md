@@ -1,7 +1,11 @@
-### Hi there 👋
-hello world
+### Hello there
+Cinematographer gone from setting scenes to setting variables.
+
 <!--
 **maseilertsen/maseilertsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Could be used in the future:
+Whether it’s capturing light or finding bugs, I’m always ready to execute the perfect solution.”
 
 Here are some ideas to get you started:
 
